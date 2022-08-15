@@ -372,7 +372,7 @@ fileConfigs:
         @log_level info
         include_tag_key true
         type_name _doc
-        host "YOUR_OPENSEARCH_URL.opensearch.us-ashburn-1.oci.oracleiaas.com"
+        host "<OPENSEARCH URL>"
         port 9200
         scheme https
         ssl_verify false

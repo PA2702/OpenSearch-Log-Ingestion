@@ -13,4 +13,5 @@ The following configuration is defined for an architecture consists of a simplif
 11.	A graphical representation is provided to the end user for building artifacts related to the incident using OCI OpenSearch Service Dashboard
 12.	OCI OpenSearch REST API is accessible on port 9200 
 13.	OCI OpenSearch Dashboards is accessible on 5601 
-![image](https://user-images.githubusercontent.com/59905035/184728738-6802a9cb-bd5c-4f51-9728-72bf20377e05.png)
+Always replace your opensearch endpoint at the end of the configuration
+
